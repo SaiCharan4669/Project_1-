@@ -46,3 +46,5 @@ Author
 Similarity score (TF-IDF)
 
 # app link
+
+http://127.0.0.1:7860
