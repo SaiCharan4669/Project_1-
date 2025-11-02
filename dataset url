@@ -1,0 +1,8 @@
+#  lets load book Raw data
+url = "https://raw.githubusercontent.com/zygmuntz/goodbooks-10k/master/ratings.csv"
+
+# Load book metadata
+meta_url = "https://raw.githubusercontent.com/zygmuntz/goodbooks-10k/master/books.csv"
+
+ratings = pd.read_csv(url)
+books = pd.read_csv(meta_url)
