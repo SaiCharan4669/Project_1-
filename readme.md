@@ -1,3 +1,8 @@
+# Note
+if the app link not works, please run app.py file it shows the Gradio application.
+
+
+
 # Overview
 
 This project builds a Hybrid Recommender System that combines:
@@ -48,3 +53,5 @@ Similarity score (TF-IDF)
 # app link
 
 http://127.0.0.1:7860
+
+
