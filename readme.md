@@ -1,5 +1,5 @@
 # Note
-if the app link not works, please run app.py file it shows the Gradio application.
+Below i had shared the Gradio app link. if the app link not works, please run app.py file it shows the Gradio application.
 
 
 
